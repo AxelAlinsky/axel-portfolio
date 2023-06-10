@@ -95,7 +95,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://gadgetgrin.com/"
+                href="https://cybraxtech.com/"
                 target="_blank"
                 rel="noreferrer"
               >
