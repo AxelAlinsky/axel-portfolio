@@ -10,8 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Apichai Tochonnabod </span>
             from <span className="purple"> Bangkok, Thailand.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            <br />I am a Sr. QA Automation Engineer.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
