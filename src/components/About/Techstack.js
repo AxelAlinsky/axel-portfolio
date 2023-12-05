@@ -48,9 +48,6 @@ function Techstack() {
         <SiJira />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiApachejmeter />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <SiVmware />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -60,15 +57,11 @@ function Techstack() {
         <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiCsharp />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGithub />
-      </Col>
-      
+      </Col>   
 
     </Row>
   );

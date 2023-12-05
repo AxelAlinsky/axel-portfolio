@@ -15,6 +15,7 @@ import {
   SiAdobepremierepro,
   SiGooglecloud,
   SiAmazonaws,
+  SiTypescript,
 } from "react-icons/si";
 
 function Toolstack() {

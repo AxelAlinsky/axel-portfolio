@@ -1,8 +1,9 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import homeLogo from "../../Assets/home-main.svg";
+import wall_burst from "../../Assets/wall_burst.png";
 import Particle from "../Particle";
 import Home2 from "./Home2";
+import Home3 from "./Home3";
 import Type from "./Type";
 
 function Home() {
@@ -32,7 +33,7 @@ function Home() {
 
             <Col md={5} style={{ paddingBottom: 20 }}>
               <img
-                src={homeLogo}
+                src={wall_burst}
                 alt="home pic"
                 className="img-fluid"
                 style={{ maxHeight: "450px" }}
@@ -42,6 +43,7 @@ function Home() {
         </Container>
       </Container>
       <Home2 />
+      <Home3 />
     </section>
   );
 }
