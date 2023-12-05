@@ -35,7 +35,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              I will do anything to gain my <b className="purple">skills</b>, and obtain<b className="purple"> new knowledge</b>.🐱‍🚀
+              I will do anything to gain <b className="purple">skills</b>, and obtain<b className="purple"> new knowledge</b>.🐱‍🚀
             </p>
           </Col>
           <Col md={4} className="myAvtar">
